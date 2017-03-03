@@ -1,0 +1,184 @@
+h3 {
+font-size: 14px;
+font-family: 'Roboto', sans-serif;
+font-weight: 100;
+margin: 2px;
+}
+h1{
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+	margin: 20px;
+}
+h2{
+	margin: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+span.logo
+{
+	font-family: 'Pacifico', cursive;
+	font-size: 100px;
+}
+iframe {
+	display: block;
+	text-align: center;
+	margin: auto;
+}
+p{
+	margin: 20px;
+}
+ul {
+	list-style-type: none;
+	width: 580px;
+	margin: auto;
+	padding: 0;
+	overflow: hidden;
+	text-align: center;
+}
+
+
+li{
+	float: left;
+	display: inline-block;
+	text-align: center; 
+}
+
+li a {
+	  color: black;
+      padding: 5px 35px;
+      text-decoration: none;
+      font-family: 'Roboto', sans-serif;
+    }
+
+li a:hover {
+	color: LightSalmon;
+}
+.nav_salmon:hover {
+	color: AliceBlue;
+}
+
+li a.active {
+    color: LightSalmon;
+}
+input {
+	width: 50%;
+	box-sizing: border-box;
+	padding: 5px 20px;
+}
+input.Contact_Message {
+	width: 50%;
+	box-sizing: border-box;
+	padding: 100px 20px;
+}
+button {
+	margin: 20px;
+
+}
+
+.demo_reel {
+	display: block;
+	text-align: center;
+}
+.homepage {
+	background-color: Linen;
+	height: 100vh;
+	float: left;
+	width: 100%
+}
+
+.logo {
+	display: block;
+	text-align: center;
+	color: LightSalmon;
+	font-family: Arial;
+	font-size: 50px
+}
+
+.artist_title {
+	display: block;
+	text-align: center;
+	color: black;
+	opacity: 0.5;
+	font-family: Arial;
+	font-size: 30px
+
+}
+
+.About_right {
+	background-color: LightSalmon;
+	float: right;
+	height: 100vh;
+	width: 50%;
+}
+
+.Photo_me {
+	margin: 50px
+}
+
+.About_Me {
+	background-color: AliceBlue;
+	width: 50%;
+	float: left;
+	height: 100vh;
+}
+
+.portfolio_page {
+	background-color: LightSalmon;
+	float: left;
+	height: 100vh;
+	width: 50%;
+}
+.portfolio_images {
+	background-color: AliceBlue;
+	width: 50%;
+	float: right;
+	height: 100vh;
+	overflow: scroll;
+}
+.Responsive_Grid {
+	margin: 20px;
+}
+.work {
+	margin: 20px;
+}
+.info {
+	margin: 20px;
+}
+.form{
+	margin: 20px;
+}
+
+.Blog_page {
+	background-color: AliceBlue;
+	float: left;
+	height: 100vh;
+	width: 50%;
+}
+.Blog_work {
+	background-color: LightSalmon;
+	width: 50%;
+	float: right;
+	height: 100vh;
+}
+.Contact_page {
+	background-color: LightSalmon;
+	width: 50%;
+	float: left;
+	height: 100vh;
+}
+.Contact_info {
+	background-color: AliceBlue;
+	float: right;
+	height: 100vh;
+	width: 50%;
+
+}
+
+
+footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+p {
+    font-family: sans-serif;
+    font-size: 300px;
+}
